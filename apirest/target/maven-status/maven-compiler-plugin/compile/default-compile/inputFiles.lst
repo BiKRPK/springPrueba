@@ -1,0 +1,13 @@
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\ApirestApplication.java
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\controller\DepartamentoController.java
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\controller\EmpleadoController.java
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\mapper\DepartamentoMapper.java
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\mapper\EmpleadoMapper.java
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\model\dto\DepartamentoDto.java
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\model\dto\EmpleadoDto.java
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\model\entity\Departamento.java
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\model\entity\Empleado.java
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\repository\DepartamentoRepository.java
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\repository\EmpleadoRepository.java
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\service\DepartamentoService.java
+E:\Users\BiK\Documents\apirest\src\main\java\com\vfayos\apirest\service\EmpleadoService.java

@@ -1,0 +1,15 @@
+com\vfayos\apirest\controller\DepartamentoController.class
+com\vfayos\apirest\mapper\EmpleadoMapperImpl.class
+com\vfayos\apirest\mapper\DepartamentoMapper.class
+com\vfayos\apirest\model\dto\DepartamentoDto.class
+com\vfayos\apirest\service\DepartamentoService.class
+com\vfayos\apirest\service\EmpleadoService.class
+com\vfayos\apirest\mapper\DepartamentoMapperImpl.class
+com\vfayos\apirest\repository\EmpleadoRepository.class
+com\vfayos\apirest\controller\EmpleadoController.class
+com\vfayos\apirest\mapper\EmpleadoMapper.class
+com\vfayos\apirest\model\entity\Empleado.class
+com\vfayos\apirest\repository\DepartamentoRepository.class
+com\vfayos\apirest\model\dto\EmpleadoDto.class
+com\vfayos\apirest\ApirestApplication.class
+com\vfayos\apirest\model\entity\Departamento.class
